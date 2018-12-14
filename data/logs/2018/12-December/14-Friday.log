@@ -1,0 +1,875 @@
+
+
+Starting up. 13:08.06
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode monolith revenge (monolithwar) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Adding game mode gang war (gang) to configuration.
+Unknown setting in configuration: 'health_threshold_crit'
+Unknown setting in configuration: 'health_threshold_dead'
+Unknown setting in configuration: 'revival_pod_plants'
+Unknown setting in configuration: 'revival_cloning'
+Unknown setting in configuration: 'revival_brain_life'
+Unknown setting in configuration: 'ooc_during_round'
+Unknown setting in configuration: 'emojis'
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'human_delay'
+Unknown setting in configuration: 'robot_delay'
+Unknown setting in configuration: 'monkey_delay'
+Unknown setting in configuration: 'alien_delay'
+Unknown setting in configuration: 'slime_delay'
+Unknown setting in configuration: 'animal_delay'
+Unknown setting in configuration: 'alert_green'
+Unknown setting in configuration: 'alert_blue_upto'
+Unknown setting in configuration: 'alert_blue_downto'
+Unknown setting in configuration: 'alert_red_upto'
+Unknown setting in configuration: 'alert_red_downto'
+Unknown setting in configuration: 'alert_delta'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'shuttle_refuel_delay'
+Unknown setting in configuration: 'traitor_scaling_coeff'
+Unknown setting in configuration: 'changeling_scaling_coeff'
+Unknown setting in configuration: 'security_scaling_coeff'
+Unknown setting in configuration: 'traitor_objectives_amount'
+Unknown setting in configuration: 'allow_latejoin_antagonists'
+Unknown setting in configuration: 'gateway_delay'
+Unknown setting in configuration: 'minimal_access_threshold'
+Unknown setting in configuration: 'sec_start_brig'
+Unknown setting in configuration: 'ghost_interaction'
+Unknown setting in configuration: 'default_laws'
+Unknown setting in configuration: 'silicon_max_law_amount'
+Unknown setting in configuration: 'join_with_mutant_race'
+Unknown setting in configuration: 'roundstart_races'
+Unknown setting in configuration: 'assistant_cap'
+Unknown setting in configuration: 'starlight'
+Unknown setting in configuration: 'grey_assistants'
+Unknown setting in configuration: 'midround_antag_time_check'
+Unknown setting in configuration: 'midround_antag_life_check'
+Unknown setting in configuration: 'reactionary_explosions'
+Unknown setting in configuration: 'bombcap'
+Saved mode is 'monolithwar'
+Database connection failed. Reverting to the legacy ban system.
+[13:08:07]ADMIN: Loading appearance_rank
+[13:08:07]ADMIN: appearance_keylist was empty
+[13:08:07]ADMIN: Loading Banlist
+[13:08:07]ADMIN: Banlist is empty.
+[13:08:07]ADMIN: Banlist missing base dir.
+[13:12:45]ACCESS: Login: Anti_Chaos/(Anti_Chaos) from 127.0.0.1-2721655345 || BYOND v512
+[13:13:21]ACCESS: Logout: Anti_Chaos[DC]/(Anti_Chaos)
+
+
+Starting up. 13:15.53
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode monolith revenge (monolithwar) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Adding game mode gang war (gang) to configuration.
+Unknown setting in configuration: 'health_threshold_crit'
+Unknown setting in configuration: 'health_threshold_dead'
+Unknown setting in configuration: 'revival_pod_plants'
+Unknown setting in configuration: 'revival_cloning'
+Unknown setting in configuration: 'revival_brain_life'
+Unknown setting in configuration: 'ooc_during_round'
+Unknown setting in configuration: 'emojis'
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'human_delay'
+Unknown setting in configuration: 'robot_delay'
+Unknown setting in configuration: 'monkey_delay'
+Unknown setting in configuration: 'alien_delay'
+Unknown setting in configuration: 'slime_delay'
+Unknown setting in configuration: 'animal_delay'
+Unknown setting in configuration: 'alert_green'
+Unknown setting in configuration: 'alert_blue_upto'
+Unknown setting in configuration: 'alert_blue_downto'
+Unknown setting in configuration: 'alert_red_upto'
+Unknown setting in configuration: 'alert_red_downto'
+Unknown setting in configuration: 'alert_delta'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'shuttle_refuel_delay'
+Unknown setting in configuration: 'traitor_scaling_coeff'
+Unknown setting in configuration: 'changeling_scaling_coeff'
+Unknown setting in configuration: 'security_scaling_coeff'
+Unknown setting in configuration: 'traitor_objectives_amount'
+Unknown setting in configuration: 'allow_latejoin_antagonists'
+Unknown setting in configuration: 'gateway_delay'
+Unknown setting in configuration: 'minimal_access_threshold'
+Unknown setting in configuration: 'sec_start_brig'
+Unknown setting in configuration: 'ghost_interaction'
+Unknown setting in configuration: 'default_laws'
+Unknown setting in configuration: 'silicon_max_law_amount'
+Unknown setting in configuration: 'join_with_mutant_race'
+Unknown setting in configuration: 'roundstart_races'
+Unknown setting in configuration: 'assistant_cap'
+Unknown setting in configuration: 'starlight'
+Unknown setting in configuration: 'grey_assistants'
+Unknown setting in configuration: 'midround_antag_time_check'
+Unknown setting in configuration: 'midround_antag_life_check'
+Unknown setting in configuration: 'reactionary_explosions'
+Unknown setting in configuration: 'bombcap'
+Saved mode is 'monolithwar'
+Database connection failed. Reverting to the legacy ban system.
+[13:15:53]ADMIN: Loading appearance_rank
+[13:15:53]ADMIN: appearance_keylist was empty
+[13:15:53]ADMIN: Loading Banlist
+[13:17:13]ACCESS: Login: Anti_Chaos/(Anti_Chaos) from 127.0.0.1-2721655345 || BYOND v512
+[13:17:24]ACCESS: Logout: Anti_Chaos[DC]/(Anti_Chaos)
+
+
+Starting up. 13:20.58
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode monolith revenge (monolithwar) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Adding game mode gang war (gang) to configuration.
+Unknown setting in configuration: 'health_threshold_crit'
+Unknown setting in configuration: 'health_threshold_dead'
+Unknown setting in configuration: 'revival_pod_plants'
+Unknown setting in configuration: 'revival_cloning'
+Unknown setting in configuration: 'revival_brain_life'
+Unknown setting in configuration: 'ooc_during_round'
+Unknown setting in configuration: 'emojis'
+Unknown setting in configuration: 'run_delay'
+Unknown setting in configuration: 'walk_delay'
+Unknown setting in configuration: 'human_delay'
+Unknown setting in configuration: 'robot_delay'
+Unknown setting in configuration: 'monkey_delay'
+Unknown setting in configuration: 'alien_delay'
+Unknown setting in configuration: 'slime_delay'
+Unknown setting in configuration: 'animal_delay'
+Unknown setting in configuration: 'alert_green'
+Unknown setting in configuration: 'alert_blue_upto'
+Unknown setting in configuration: 'alert_blue_downto'
+Unknown setting in configuration: 'alert_red_upto'
+Unknown setting in configuration: 'alert_red_downto'
+Unknown setting in configuration: 'alert_delta'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'probability'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'continuous'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'midround_antag'
+Unknown setting in configuration: 'shuttle_refuel_delay'
+Unknown setting in configuration: 'traitor_scaling_coeff'
+Unknown setting in configuration: 'changeling_scaling_coeff'
+Unknown setting in configuration: 'security_scaling_coeff'
+Unknown setting in configuration: 'traitor_objectives_amount'
+Unknown setting in configuration: 'allow_latejoin_antagonists'
+Unknown setting in configuration: 'gateway_delay'
+Unknown setting in configuration: 'minimal_access_threshold'
+Unknown setting in configuration: 'sec_start_brig'
+Unknown setting in configuration: 'ghost_interaction'
+Unknown setting in configuration: 'default_laws'
+Unknown setting in configuration: 'silicon_max_law_amount'
+Unknown setting in configuration: 'join_with_mutant_race'
+Unknown setting in configuration: 'roundstart_races'
+Unknown setting in configuration: 'assistant_cap'
+Unknown setting in configuration: 'starlight'
+Unknown setting in configuration: 'grey_assistants'
+Unknown setting in configuration: 'midround_antag_time_check'
+Unknown setting in configuration: 'midround_antag_life_check'
+Unknown setting in configuration: 'reactionary_explosions'
+Unknown setting in configuration: 'bombcap'
+Saved mode is 'monolithwar'
+Database connection failed. Reverting to the legacy ban system.
+[13:20:59]ADMIN: Loading appearance_rank
+[13:20:59]ADMIN: appearance_keylist was empty
+[13:20:59]ADMIN: Loading Banlist
+[13:22:17]ACCESS: Login: Anti_Chaos/(Anti_Chaos) from 127.0.0.1-2721655345 || BYOND v512
+[13:27:55]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:27:55]EMOTE: snork/ : <B>The snork</B> roars!
+[13:27:55]EMOTE: snork/ : <B>The snork</B> growls!
+[13:27:58]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:28:02]ACCESS: Logout: *no key*/(Anti_Chaos)
+[13:28:02]ACCESS: Login: Anti_Chaos/(Avkt Kovalchick) from 127.0.0.1-2721655345 || BYOND v512
+[13:28:03]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:28:06]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:28:07]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:28:09]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:28:10]EMOTE: snork/ : <B>The snork</B> growls!
+[13:28:10]EMOTE: snork/ : <B>The snork</B> roars!
+[13:28:12]EMOTE: snork/ : <B>The snork</B> growls!
+[13:28:12]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:28:13]EMOTE: snork/ : <B>The snork</B> roars!
+[13:28:13]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:28:18]EMOTE: snork/ : <B>The snork</B> growls!
+[13:28:19]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:28:21]EMOTE: snork/ : <B>The snork</B> growls!
+[13:28:24]EMOTE: snork/ : <B>The snork</B> roars!
+[13:28:24]EMOTE: snork/ : <B>The snork</B> roars!
+[13:28:25]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:28:30]EMOTE: snork/ : <B>The snork</B> roars!
+[13:28:30]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:28:30]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:28:31]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:28:33]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:28:33]EMOTE: snork/ : <B>The snork</B> roars!
+[13:28:33]EMOTE: snork/ : <B>The snork</B> growls!
+[13:28:34]EMOTE: snork/ : <B>The snork</B> growls!
+[13:28:34]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:28:36]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:28:38]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:28:39]EMOTE: snork/ : <B>The snork</B> growls!
+[13:28:39]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:28:39]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:28:43]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:28:45]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:28:49]EMOTE: snork/ : <B>The snork</B> roars!
+[13:28:49]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:28:51]EMOTE: snork/ : <B>The snork</B> growls!
+[13:28:52]EMOTE: snork/ : <B>The snork</B> growls!
+[13:28:52]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:28:54]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:28:55]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:29:00]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:29:01]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:29:06]EMOTE: snork/ : <B>The snork</B> growls!
+[13:29:07]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:29:10]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:29:10]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:29:12]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:29:13]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:29:16]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:29:18]EMOTE: snork/ : <B>The snork</B> growls!
+[13:29:21]EMOTE: snork/ : <B>The snork</B> growls!
+[13:29:27]EMOTE: snork/ : <B>The snork</B> roars!
+[13:29:28]EMOTE: snork/ : <B>The snork</B> roars!
+[13:29:30]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:29:31]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:29:34]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:29:37]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:29:37]EMOTE: snork/ : <B>The snork</B> roars!
+[13:29:37]EMOTE: snork/ : <B>The snork</B> roars!
+[13:29:39]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:29:40]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:29:43]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:29:45]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:29:48]EMOTE: snork/ : <B>The snork</B> roars!
+[13:29:49]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:29:49]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:29:54]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:29:55]EMOTE: snork/ : <B>The snork</B> growls!
+[13:30:00]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:30:03]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:30:04]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:30:06]EMOTE: snork/ : <B>The snork</B> roars!
+[13:30:06]EMOTE: snork/ : <B>The snork</B> roars!
+[13:30:06]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:30:07]EMOTE: snork/ : <B>The snork</B> roars!
+[13:30:07]EMOTE: snork/ : <B>The snork</B> growls!
+[13:30:12]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:30:12]EMOTE: snork/ : <B>The snork</B> growls!
+[13:30:15]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:30:15]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:30:18]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:30:22]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:30:22]EMOTE: snork/ : <B>The snork</B> roars!
+[13:30:24]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:30:24]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:30:25]EMOTE: snork/ : <B>The snork</B> roars!
+[13:30:28]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:30:28]EMOTE: snork/ : <B>The snork</B> growls!
+[13:30:28]EMOTE: snork/ : <B>The snork</B> growls!
+[13:30:36]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:30:37]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:30:39]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:30:40]EMOTE: snork/ : <B>The snork</B> growls!
+[13:30:40]EMOTE: snork/ : <B>The snork</B> roars!
+[13:30:42]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:30:42]EMOTE: snork/ : <B>The snork</B> growls!
+[13:30:48]EMOTE: snork/ : <B>The snork</B> roars!
+[13:30:48]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:30:48]EMOTE: snork/ : <B>The snork</B> roars!
+[13:30:51]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:30:51]EMOTE: snork/ : <B>The snork</B> roars!
+[13:30:52]EMOTE: snork/ : <B>The snork</B> growls!
+[13:30:52]EMOTE: snork/ : <B>The snork</B> growls!
+[13:30:54]EMOTE: snork/ : <B>The snork</B> growls!
+[13:30:54]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:30:55]EMOTE: snork/ : <B>The snork</B> growls!
+[13:30:57]EMOTE: snork/ : <B>The snork</B> growls!
+[13:30:59]EMOTE: snork/ : <B>The snork</B> roars!
+[13:31:03]EMOTE: snork/ : <B>The snork</B> growls!
+[13:31:04]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:31:04]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:31:05]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:31:05]EMOTE: snork/ : <B>The snork</B> roars!
+[13:31:06]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:31:08]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:31:09]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:31:09]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:31:11]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:31:12]EMOTE: snork/ : <B>The snork</B> roars!
+[13:31:14]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:31:15]EMOTE: boar/ : <B>The boar</B> grunts aggressively!
+[13:31:15]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:31:17]EMOTE: snork/ : <B>The snork</B> growls!
+[13:31:18]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:31:18]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:31:20]EMOTE: snork/ : <B>The snork</B> growls!
+[13:31:21]EMOTE: snork/ : <B>The snork</B> roars!
+[13:31:24]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:31:26]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:31:27]EMOTE: snork/ : <B>The snork</B> roars!
+[13:31:30]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:31:30]EMOTE: snork/ : <B>The snork</B> growls!
+[13:31:32]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:31:32]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:31:32]EMOTE: snork/ : <B>The snork</B> growls!
+[13:31:33]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:31:35]EMOTE: snork/ : <B>The snork</B> growls!
+[13:31:35]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:31:36]EMOTE: snork/ : <B>The snork</B> roars!
+[13:31:36]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:31:38]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:31:38]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:31:38]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:31:39]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:31:42]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:31:44]EMOTE: snork/ : <B>The snork</B> growls!
+[13:31:44]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:31:45]EMOTE: snork/ : <B>The snork</B> growls!
+[13:31:47]EMOTE: snork/ : <B>The snork</B> roars!
+[13:31:48]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:31:48]EMOTE: snork/ : <B>The snork</B> roars!
+[13:31:51]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:31:51]EMOTE: snork/ : <B>The snork</B> growls!
+[13:31:53]EMOTE: snork/ : <B>The snork</B> roars!
+[13:31:54]EMOTE: snork/ : <B>The snork</B> roars!
+[13:31:54]EMOTE: snork/ : <B>The snork</B> roars!
+[13:31:54]EMOTE: snork/ : <B>The snork</B> growls!
+[13:31:54]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:31:57]EMOTE: snork/ : <B>The snork</B> growls!
+[13:31:57]EMOTE: snork/ : <B>The snork</B> roars!
+[13:31:59]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:32:00]EMOTE: snork/ : <B>The snork</B> roars!
+[13:32:02]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:32:03]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:32:03]EMOTE: snork/ : <B>The snork</B> growls!
+[13:32:03]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:32:06]EMOTE: snork/ : <B>The snork</B> growls!
+[13:32:08]EMOTE: snork/ : <B>The snork</B> roars!
+[13:32:09]EMOTE: snork/ : <B>The snork</B> roars!
+[13:32:11]EMOTE: snork/ : <B>The snork</B> growls!
+[13:32:11]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:32:12]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:32:14]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:32:15]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:32:15]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:32:15]EMOTE: snork/ : <B>The snork</B> growls!
+[13:32:18]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:32:22]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:32:23]EMOTE: boar/ : <B>The boar</B> grunts aggressively!
+[13:32:25]EMOTE: boar/ : <B>The boar</B> grunts aggressively!
+[13:32:26]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:32:28]EMOTE: snork/ : <B>The snork</B> growls!
+[13:32:28]EMOTE: snork/ : <B>The snork</B> roars!
+[13:32:28]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:32:29]EMOTE: snork/ : <B>The snork</B> roars!
+[13:32:32]EMOTE: snork/ : <B>The snork</B> roars!
+[13:32:32]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:32:32]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:32:37]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:32:38]EMOTE: snork/ : <B>The snork</B> roars!
+[13:32:38]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:32:38]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:32:40]EMOTE: snork/ : <B>The snork</B> growls!
+[13:32:41]EMOTE: snork/ : <B>The snork</B> roars!
+[13:32:43]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:32:44]EMOTE: snork/ : <B>The snork</B> growls!
+[13:32:44]EMOTE: snork/ : <B>The snork</B> roars!
+[13:32:44]EMOTE: snork/ : <B>The snork</B> roars!
+[13:32:46]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:32:46]EMOTE: snork/ : <B>The snork</B> roars!
+[13:32:49]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:32:49]EMOTE: snork/ : <B>The snork</B> roars!
+[13:32:50]EMOTE: snork/ : <B>The snork</B> roars!
+[13:32:52]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:32:52]EMOTE: snork/ : <B>The snork</B> growls!
+[13:32:53]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:32:53]EMOTE: snork/ : <B>The snork</B> roars!
+[13:32:56]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:32:59]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:33:01]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:33:01]EMOTE: snork/ : <B>The snork</B> growls!
+[13:33:02]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:33:05]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:33:07]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:33:07]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:33:08]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:33:11]EMOTE: snork/ : <B>The snork</B> growls!
+[13:33:11]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:33:11]EMOTE: snork/ : <B>The snork</B> growls!
+[13:33:13]EMOTE: snork/ : <B>The snork</B> growls!
+[13:33:16]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:33:17]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:33:22]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:33:23]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:33:23]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:33:26]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:33:26]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:33:28]EMOTE: snork/ : <B>The snork</B> roars!
+[13:33:31]EMOTE: snork/ : <B>The snork</B> growls!
+[13:33:31]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:33:31]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:33:32]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:33:32]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:33:34]EMOTE: snork/ : <B>The snork</B> roars!
+[13:33:35]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:33:37]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:33:41]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:33:41]EMOTE: snork/ : <B>The snork</B> growls!
+[13:33:43]EMOTE: snork/ : <B>The snork</B> growls!
+[13:33:44]EMOTE: snork/ : <B>The snork</B> growls!
+[13:33:44]EMOTE: snork/ : <B>The snork</B> roars!
+[13:33:45]EMOTE: snork/ : <B>The snork</B> growls!
+[13:33:46]EMOTE: snork/ : <B>The snork</B> growls!
+[13:33:46]EMOTE: snork/ : <B>The snork</B> roars!
+[13:33:47]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:33:50]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:33:56]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:33:58]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:34:00]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:34:03]EMOTE: snork/ : <B>The snork</B> growls!
+[13:34:03]EMOTE: snork/ : <B>The snork</B> roars!
+[13:34:06]EMOTE: snork/ : <B>The snork</B> growls!
+[13:34:06]EMOTE: snork/ : <B>The snork</B> roars!
+[13:34:07]EMOTE: snork/ : <B>The snork</B> roars!
+[13:34:12]EMOTE: snork/ : <B>The snork</B> roars!
+[13:34:16]EMOTE: snork/ : <B>The snork</B> roars!
+[13:34:16]EMOTE: snork/ : <B>The snork</B> growls!
+[13:34:18]EMOTE: snork/ : <B>The snork</B> roars!
+[13:34:19]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:34:19]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:34:21]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:34:21]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:34:22]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:34:24]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:34:24]EMOTE: snork/ : <B>The snork</B> growls!
+[13:34:25]EMOTE: snork/ : <B>The snork</B> roars!
+[13:34:30]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:34:30]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:34:30]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:34:31]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:34:33]EMOTE: snork/ : <B>The snork</B> roars!
+[13:34:34]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:34:34]EMOTE: boar/ : <B>The boar</B> grunts aggressively!
+[13:34:34]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:34:34]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:34:34]EMOTE: snork/ : <B>The snork</B> roars!
+[13:34:36]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:34:43]EMOTE: snork/ : <B>The snork</B> growls!
+[13:34:43]EMOTE: snork/ : <B>The snork</B> roars!
+[13:34:46]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:34:46]EMOTE: snork/ : <B>The snork</B> roars!
+[13:34:46]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:34:46]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:34:46]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:34:46]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:34:46]EMOTE: snork/ : <B>The snork</B> roars!
+[13:34:48]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:34:48]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:34:48]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:34:49]EMOTE: snork/ : <B>The snork</B> growls!
+[13:34:51]EMOTE: snork/ : <B>The snork</B> growls!
+[13:34:52]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:34:54]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:34:55]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:34:56]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:34:56]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:35:00]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:35:08]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:35:11]EMOTE: snork/ : <B>The snork</B> growls!
+[13:35:12]EMOTE: snork/ : <B>The snork</B> roars!
+[13:35:14]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:35:14]EMOTE: snork/ : <B>The snork</B> roars!
+[13:35:15]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:35:18]EMOTE: snork/ : <B>The snork</B> growls!
+[13:35:18]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:36:09]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:36:09]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:36:11]EMOTE: snork/ : <B>The snork</B> growls!
+[13:36:11]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:36:12]EMOTE: snork/ : <B>The snork</B> growls!
+[13:36:12]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:36:14]EMOTE: snork/ : <B>The snork</B> growls!
+[13:36:16]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:36:17]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:36:20]EMOTE: snork/ : <B>The snork</B> growls!
+[13:36:28]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:36:31]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:36:31]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:36:31]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:36:32]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:36:34]EMOTE: boar/ : <B>The boar</B> grunts aggressively!
+[13:36:34]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:36:37]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:36:38]EMOTE: boar/ : <B>The boar</B> grunts aggressively!
+[13:36:38]EMOTE: snork/ : <B>The snork</B> roars!
+[13:36:40]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:36:41]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:36:41]EMOTE: snork/ : <B>The snork</B> roars!
+[13:36:44]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:36:47]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:36:50]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:36:52]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:36:56]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:36:56]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:37:00]EMOTE: snork/ : <B>The snork</B> growls!
+[13:37:02]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:37:06]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:37:06]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:37:07]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:37:07]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:37:09]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:37:09]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:37:09]EMOTE: snork/ : <B>The snork</B> growls!
+[13:37:10]EMOTE: snork/ : <B>The snork</B> roars!
+[13:37:10]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:37:10]EMOTE: snork/ : <B>The snork</B> growls!
+[13:37:12]EMOTE: snork/ : <B>The snork</B> roars!
+[13:37:12]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:37:13]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:37:15]EMOTE: snork/ : <B>The snork</B> roars!
+[13:37:22]EMOTE: snork/ : <B>The snork</B> growls!
+[13:37:24]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:37:24]EMOTE: snork/ : <B>The snork</B> growls!
+[13:37:25]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:37:25]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:37:27]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:37:28]EMOTE: snork/ : <B>The snork</B> roars!
+[13:37:28]EMOTE: boar/ : <B>The boar</B> grunts aggressively!
+[13:37:30]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:37:30]EMOTE: snork/ : <B>The snork</B> growls!
+[13:37:31]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:37:31]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:37:33]EMOTE: snork/ : <B>The snork</B> roars!
+[13:37:33]EMOTE: snork/ : <B>The snork</B> growls!
+[13:37:33]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:37:33]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:37:34]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:37:36]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:37:37]EMOTE: snork/ : <B>The snork</B> roars!
+[13:37:39]EMOTE: boar/ : <B>The boar</B> grunts aggressively!
+[13:37:39]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:37:40]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:37:40]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:37:42]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:37:47]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:37:51]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:37:55]EMOTE: snork/ : <B>The snork</B> roars!
+[13:37:55]EMOTE: snork/ : <B>The snork</B> roars!
+[13:38:03]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:38:03]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:38:05]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:38:05]EMOTE: snork/ : <B>The snork</B> roars!
+[13:38:05]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:38:07]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:38:07]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:38:08]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:38:10]EMOTE: snork/ : <B>The snork</B> roars!
+[13:38:11]EMOTE: snork/ : <B>The snork</B> roars!
+[13:38:14]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:38:16]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:38:17]EMOTE: snork/ : <B>The snork</B> growls!
+[13:38:21]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:38:22]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:38:27]EMOTE: snork/ : <B>The snork</B> roars!
+[13:38:27]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:38:30]EMOTE: snork/ : <B>The snork</B> growls!
+[13:38:30]EMOTE: snork/ : <B>The snork</B> growls!
+[13:38:31]EMOTE: snork/ : <B>The snork</B> growls!
+[13:38:33]EMOTE: snork/ : <B>The snork</B> growls!
+[13:38:34]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:38:34]EMOTE: snork/ : <B>The snork</B> growls!
+[13:38:36]EMOTE: snork/ : <B>The snork</B> growls!
+[13:38:37]EMOTE: snork/ : <B>The snork</B> roars!
+[13:38:39]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:38:39]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:38:39]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:38:40]EMOTE: snork/ : <B>The snork</B> roars!
+[13:38:40]EMOTE: snork/ : <B>The snork</B> roars!
+[13:38:42]EMOTE: snork/ : <B>The snork</B> growls!
+[13:38:43]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:38:45]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:38:46]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:38:48]EMOTE: snork/ : <B>The snork</B> growls!
+[13:38:48]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:38:48]EMOTE: snork/ : <B>The snork</B> growls!
+[13:38:49]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:38:51]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:38:55]EMOTE: snork/ : <B>The snork</B> roars!
+[13:38:58]EMOTE: snork/ : <B>The snork</B> growls!
+[13:38:58]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:39:00]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:39:00]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:39:01]EMOTE: snork/ : <B>The snork</B> roars!
+[13:39:01]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:39:07]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:39:07]EMOTE: snork/ : <B>The snork</B> roars!
+[13:39:07]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:39:09]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:39:09]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:39:09]EMOTE: snork/ : <B>The snork</B> roars!
+[13:39:09]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:39:10]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:39:12]EMOTE: snork/ : <B>The snork</B> roars!
+[13:39:12]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:39:12]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:39:13]EMOTE: snork/ : <B>The snork</B> growls!
+[13:39:13]EMOTE: snork/ : <B>The snork</B> roars!
+[13:39:15]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:39:15]EMOTE: snork/ : <B>The snork</B> roars!
+[13:39:15]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:39:15]EMOTE: snork/ : <B>The snork</B> roars!
+[13:39:16]EMOTE: snork/ : <B>The snork</B> roars!
+[13:39:18]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:39:18]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:39:19]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:39:25]EMOTE: snork/ : <B>The snork</B> growls!
+[13:39:25]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:39:25]EMOTE: snork/ : <B>The snork</B> roars!
+[13:39:31]EMOTE: snork/ : <B>The snork</B> growls!
+[13:39:31]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:39:32]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:39:35]EMOTE: snork/ : <B>The snork</B> growls!
+[13:39:38]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:39:38]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:39:39]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:39:39]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:39:39]SAY: Avkt Kovalchick/Anti_Chaos : Αλ-λ&#255&#255!
+[13:39:40]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:39:41]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:39:41]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:39:41]EMOTE: snork/ : <B>The snork</B> roars!
+[13:39:45]EMOTE: snork/ : <B>The snork</B> growls!
+[13:39:45]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:39:50]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:39:50]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:39:56]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:39:56]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:39:56]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:40:02]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:40:03]EMOTE: snork/ : <B>The snork</B> growls!
+[13:40:03]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:40:05]EMOTE: boar/ : <B>The boar</B> grunts aggressively!
+[13:40:05]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:40:06]EMOTE: snork/ : <B>The snork</B> roars!
+[13:40:06]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:40:08]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:40:11]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:40:12]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:40:12]EMOTE: snork/ : <B>The snork</B> growls!
+[13:40:12]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:40:12]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:40:14]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:40:14]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:40:15]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:40:15]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:40:20]EMOTE: snork/ : <B>The snork</B> growls!
+[13:40:20]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:40:20]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:40:21]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:40:23]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:40:24]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:40:27]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:40:27]EMOTE: snork/ : <B>The snork</B> roars!
+[13:40:30]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:40:30]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:40:32]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:40:32]EMOTE: snork/ : <B>The snork</B> roars!
+[13:40:36]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:40:36]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:40:38]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:40:39]EMOTE: snork/ : <B>The snork</B> roars!
+[13:40:41]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:40:43]EMOTE: Avkt Kovalchick/Anti_Chaos : <B>Avkt Kovalchick</B> seizes up and falls limp, his eyes dead and lifeless...
+[13:40:43]ACCESS: Logout: *no key*/(Avkt Kovalchick)
+[13:40:43]ACCESS: Login: Anti_Chaos/(Avkt Kovalchick) from 127.0.0.1-2721655345 || BYOND v512
+[13:40:44]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:40:44]EMOTE: snork/ : <B>The snork</B> growls!
+[13:40:47]EMOTE: snork/ : <B>The snork</B> roars!
+[13:40:48]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:40:50]EMOTE: snork/ : <B>The snork</B> roars!
+[13:40:50]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:40:50]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:40:51]EMOTE: snork/ : <B>The snork</B> growls!
+[13:40:54]EMOTE: snork/ : <B>The snork</B> growls!
+[13:40:54]EMOTE: boar/ : <B>The boar</B> grunts aggressively!
+[13:40:56]EMOTE: snork/ : <B>The snork</B> roars!
+[13:40:57]EMOTE: snork/ : <B>The snork</B> growls!
+[13:41:05]EMOTE: snork/ : <B>The snork</B> roars!
+[13:41:05]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:41:05]EMOTE: Controller/ : <B>Controller</B> roars!
+[13:41:08]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:41:09]EMOTE: snork/ : <B>The snork</B> growls!
+[13:41:11]EMOTE: snork/ : <B>The snork</B> roars!
+[13:41:14]EMOTE: snork/ : <B>The snork</B> growls!
+[13:41:14]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:41:14]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:41:15]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:41:17]EMOTE: boar/ : <B>The boar</B> grunts aggressively!
+[13:41:17]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:41:17]EMOTE: snork/ : <B>The snork</B> roars!
+[13:41:17]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:41:18]EMOTE: snork/ : <B>The snork</B> roars!
+[13:41:23]EMOTE: flesh/ : <B>The flesh</B> shrieks aggressively!
+[13:41:23]EMOTE: snork/ : <B>The snork</B> roars!
+[13:41:23]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:41:26]EMOTE: bloodsucker/ : <B>The bloodsucker</B> growls!
+[13:41:27]EMOTE: snork/ : <B>The snork</B> growls!
+[13:41:29]EMOTE: bloodsucker/ : <B>The bloodsucker</B> roars!
+[13:41:30]EMOTE: snork/ : <B>The snork</B> roars!
+[13:41:30]EMOTE: dog mutant/ : <B>The dog mutant</B> barks!
+[13:41:32]EMOTE: Controller/ : <B>Controller</B> growls!
+[13:41:36]ACCESS: Logout: Anti_Chaos[DC]/(Avkt Kovalchick)
