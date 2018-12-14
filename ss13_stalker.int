@@ -1,0 +1,12 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 1.000
+LAST_COMPILE_TIME: 1544790575
+DIR: _maps _maps\map_files _maps\map_files\Stalker _maps\map_files\Stalker\Zona2 code code\game code\game\stalker code\game\stalker\donate code\game\stalker\mobs code\game\stalker\mobs\hostiles code\game\stalker\mobs\hostiles\mutants code\game\stalker\objects code\game\stalker\objects\items code\game\stalker\objects\items\weapons code\game\stalker\objects\structure icons icons\stalker 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 512.1454
+WINDOW: code\game\stalker\mobs\mobspawners.dm;code\game\stalker\mobs\hostiles\mutants\mutants.dm;icons\stalker\stalker.dmi;icons\stalker\loot.dmi;code\game\stalker\objects\items\weapons\loot.dm;code\game\stalker\donate\viproom.dm;code\game\stalker\objects\structure\decor.dm
+FILE: code\game\stalker\objects\structure\decor.dm
+*/
+// END_INTERNALS
